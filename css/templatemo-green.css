@@ -218,18 +218,34 @@ header hr {
   padding-right: 6px;
 }
 
-/* experience section */
-.experience {
+/* hobbies section */
+.hobbies {
   background: #7ac143;
   color: #f5f5f5;
 }
-.experience .experience-content {
+.hobbies .hobbies-content {
   padding-bottom: 14px;
 }
-.experience h5 {
+.hobbies h5 {
   display: inline-block;
 }
-.experience span {
+.hobbies span {
+  padding-right: 10px;
+  padding-left: 20px;
+}
+
+/* achievements section */
+.achievements {
+  background: #7ac143;
+  color: #f5f5f5;
+}
+.achievements .achievements-content {
+  padding-bottom: 14px;
+}
+.achievements h5 {
+  display: inline-block;
+}
+.achievements span {
   padding-right: 10px;
   padding-left: 20px;
 }
